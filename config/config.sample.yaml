@@ -1,0 +1,12 @@
+environment: develop
+port: 8001
+default_limit: 25
+max_limit: 100
+
+database:
+  host: localhost
+  port: 27017
+  name: crm
+  user: admin
+  password: ######
+  options:
